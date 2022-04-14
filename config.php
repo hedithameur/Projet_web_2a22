@@ -1,21 +1,14 @@
 <?php
-  class config {
-    private static $pdo = NULL;
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $dbname = "mydb";
 
-    public static function getConnexion() {
-      if (!isset(self::$pdo)) {
-        try{
-          self::$pdo = new PDO('mysql:host=localhost;dbname=projet', 'root', '',
-          [
-            PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
-            PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC
-        ]);
-          
-        }catch(Exception $e){
-          die('Erreur: '.$e->getMessage());
-        }
-      }
-      return self::$pdo;
+    //Create connection
+  $conn = new mysqli($servername,$username,$password, $dbname );
+    // Check connection
+    if ($conn->connect_error) {
+        die("Connection failed:" . $conn->connect_error);
     }
-  }
+   
 ?>
