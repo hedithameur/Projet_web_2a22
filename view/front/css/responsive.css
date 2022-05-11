@@ -1,0 +1,1141 @@
+@media screen and (max-width: 1200px) {
+    .boxed #car-1-page {
+        max-width: 1060px;
+        max-width: 960px;
+    }
+    .boxed #car-1-page .container {
+        max-width: 960px;
+        max-width: 780px;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 60px;
+    }
+}
+@media screen and (max-width: 1199px) {
+    #car-1-app {
+        background-attachment: inherit;
+    }
+    #car-1-hero {
+        background-attachment: inherit;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 50px;
+    }
+    #car-1-hero .car-1-intro > div .btn-outline,
+    #car-1-hero .car-1-intro > div .btn-primary {
+        padding: 10px 0;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 44px;
+    }
+    #car-1-hero .car-1-intro > div h3 {
+        line-height: 40px;
+    }
+    #car-1-features,
+    #car-1-features-2,
+    #car-1-features-3,
+    #car-1-features-4,
+    #car-1-projects,
+    #car-1-testimonials,
+    #car-1-about,
+    #car-1-subscribe,
+    #car-1-info,
+    #car-1-pricing,
+    #car-1-faqs,
+    #car-1-footer {
+        padding: 3.5em 0;
+    }
+    #car-1-footer {
+        padding-top: 0;
+    }
+    #car-1-projects .car-1-lead,
+    #car-1-features .car-1-lead,
+    #car-1-features-2 .car-1-lead,
+    #car-1-features-3 .car-1-lead,
+    #car-1-features-4 .car-1-lead,
+    #car-1-info .car-1-lead {
+        font-size: 36px;
+    }
+    .row-bottom-padded-md {
+        padding-bottom: 1em;
+    }
+    #car-1-projects .car-1-project-item .car-1-text p {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    #car-1-projects .car-1-project-item .car-1-text {
+        padding: 20px;
+    }
+    #car-1-features .car-1-sub-lead {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 0;
+    }
+    #car-1-features .car-1-feature {
+        padding: 0 10px;
+        margin-bottom: 0;
+    }
+    .car-1-feature p {
+        margin-bottom: 0;
+    }
+    .btn-cta {
+        padding: 15px 30px !important;
+    }
+    #car-1-features.why-us .car-1-feature .car-1-icon {
+        height: 80px;
+    }
+    #car-1-header nav ul.left-menu li {
+        margin-right: 10px;
+    }
+    #car-1-header {
+        padding-top: 30px;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        margin-bottom: 10px;
+    }
+    #car-1-about .car-1-lead {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    #car-1-about .car-1-sub-lead {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .row-bottom-padded-lg {
+        padding-bottom: 2em;
+    }
+    .car-1-person figure {
+        margin-bottom: 20px;
+    }
+    .car-1-person .car-1-bio {
+        margin-bottom: 0;
+    }
+    #car-1-subscribe h3 label {
+        font-size: 20px;
+    }
+    #car-1-footer {
+        padding-bottom: 0;
+    }
+    #car-1-footer .car-1-copyright {
+        padding: 30px 0;
+    }
+    #car-1-info p {
+        margin-bottom: 0
+    }
+    #car-1-projects .car-1-project-item .car-1-text {
+        padding: 20px 10px;
+    }
+    #car-1-projects .car-1-project-item .car-1-text p {
+        line-height: 24px;
+    }
+    .car-1-lead {
+        font-size: 36px;
+    }
+    #car-1-faqs .car-1-faq-list li h2 {
+        font-size: 24px;
+    }
+    #car-1-faqs .car-1-faq-list li {
+        margin-bottom: 20px;
+    }
+    #car-1-faqs .car-1-faq-list li:last-child {
+        margin-bottom: 0;
+    }
+    .style-sec .btn.btn-primary {
+        margin-top: 20px;
+    }
+    .style-sec p {
+        margin-bottom: 0;
+    }
+    #car-1-testimonials .car-1-lead {
+        font-size: 36px;
+    }
+    .vehicle-info li {
+        font-size: 22px;
+        line-height: 36px;
+    }
+    .holiday-sec .btn-cta {
+        padding: 10px 0 !important;
+    }
+    .login-form ul {
+        padding: 0 40px;
+    }
+    .login-sec {
+        width: 80%;
+    }
+    #car-1-hero {
+        height: 480px !important;
+    }
+    #car-1-hero .car-1-intro {
+        height: 480px !important;
+    }
+}
+@media screen and (max-width: 768px) {
+    #car-1-header {
+        padding-top: 30px;
+    }
+    #car-1-header nav ul {
+        display: none;
+    }
+    #car-1-header nav ul {
+        display: none;
+    }
+    .row-bottom-padded-sm {
+        padding-bottom: 2em;
+    }
+    .row-top-padded-sm {
+        padding-top: 2em;
+    }
+    .row-top-padded-md {
+        padding-top: 2em;
+    }
+    .row-bottom-padded-md {
+        padding-bottom: 2em;
+    }
+    .row-top-padded-lg {
+        padding-top: 2em;
+    }
+    .row-bottom-padded-lg {
+        padding-bottom: 2em;
+    }
+    .car-1-nav-toggle {
+        display: block;
+        top: 20px;
+    }
+    #car-1-offcanvas {
+        display: block;
+    }
+    #car-1-faqs .car-1-faq-list li h2 {
+        font-size: 26px;
+    }
+    #car-1-footer .car-1-copyright .car-1-right {
+        float: left;
+    }
+    #car-1-faqs .car-1-faq-list li {
+        margin: 0 0 20px 0;
+    }
+    #car-1-about .car-1-lead {
+        font-size: 35px;
+    }
+    #car-1-testimonials .car-1-lead {
+        font-size: 35px;
+    }
+    #car-1-testimonials .flexslider-controls .flex-control-nav {
+        padding-bottom: 30px;
+    }
+    #car-1-features-2 .car-1-lead,
+    #car-1-features-3 .car-1-lead,
+    #car-1-features-4 .car-1-lead {
+        font-size: 35px;
+    }
+    #car-1-features-2 .car-1-feature .car-1-icon i,
+    #car-1-features-3 .car-1-feature .car-1-icon i,
+    #car-1-features-4 .car-1-feature .car-1-icon i {
+        font-size: 30px;
+    }
+    .no-js-fullheight {
+        height: inherit;
+        padding: 3em 0;
+    }
+    .car-1-lead {
+        font-size: 35px;
+    }
+    #car-1-projects .car-1-lead {
+        font-size: 35px;
+    }
+    #car-1-features .car-1-lead {
+        font-size: 35px;
+    }
+    #car-1-features .car-1-feature {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #car-1-features,
+    #car-1-features-2,
+    #car-1-features-3,
+    #car-1-features-4,
+    #car-1-projects,
+    #car-1-testimonials,
+    #car-1-about,
+    #car-1-subscribe,
+    #car-1-info,
+    #car-1-pricing,
+    #car-1-faqs,
+    #car-1-footer {
+        padding: 3em 0;
+    }
+    .travel-plan {
+        padding: 40px 0 !important;
+    }
+    #car-1-testimonials {
+        padding: 46px 0 !important;
+    }
+    #car-1-subscribe {
+        padding-top: 20px;
+    }
+    .car-1-sub-lead {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #car-1-projects {
+        padding: 69px 0px 10px !important;
+    }
+    #car-1-projects .car-1-lead {
+        font-size: 30px;
+    }
+    #car-1-footer {
+        padding: 30px 0 0;
+    }
+    .car-1-footer-widget {
+        width: 100% !important;
+        float: left !important;
+    }
+    #car-1-testimonials {
+        padding: 46px 0 0 !important;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 26px;
+    }
+    #car-1-offcanvas ul li a:hover{color: rgba(255,255,255,1);}
+}
+@media screen and (max-width: 991px) {
+    .btn-cta {
+        width: 160px;
+    }
+    #car-1-features .car-1-feature h3 {
+        font-size: 18px;
+    }
+    .car-1-feature p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    #car-1-features .car-1-feature .car-1-icon {
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+        margin-bottom: 20px;
+    }
+    #car-1-features .car-1-feature .car-1-icon i {
+        font-size: 40px;
+    }
+    #car-1-projects .car-1-lead,
+    #car-1-features .car-1-lead,
+    #car-1-features-2 .car-1-lead,
+    #car-1-features-3 .car-1-lead,
+    #car-1-features-4 .car-1-lead {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    #car-1-features-2 .car-1-label,
+    #car-1-features-3 .car-1-label,
+    #car-1-features-4 .car-1-label {
+        font-size: 16px;
+    }
+    .car-1-text span {
+        padding-right: 0;
+    }
+    #car-1-features-2 .car-1-feature h3,
+    #car-1-features-3 .car-1-feature h3,
+    #car-1-features-4 .car-1-feature h3 {
+        font-size: 20px;
+    }
+    .holiday-sec .car-1-icon i {
+        font-size: 20px !important;
+    }
+    #car-1-features-2 .car-1-feature,
+    #car-1-features-3 .car-1-feature,
+    #car-1-features-4 .car-1-feature {
+        margin-bottom: 10px;
+    }
+    #car-1-features .car-1-feature {
+        padding: 0;
+    }
+    #car-1-features.why-us .car-1-feature p {
+        font-size: 16px;
+    }
+    #car-1-features.why-us .car-1-feature h3 {
+        font-size: 28px;
+        margin-bottom: 0px;
+    }
+    .row-bottom-padded-sm {
+        padding-bottom: 0;
+    }
+    #car-1-header nav ul li a {
+        padding: 5px;
+    }
+    blockquote p {
+        margin-bottom: 0;
+    }
+    .flex-control-nav {
+        bottom: 0;
+    }
+    #car-1-subscribe h3 {
+        text-align: center;
+    }
+    #car-1-footer {
+        padding-bottom: 0;
+    }
+    #car-1-hero {
+        background-attachment: scroll;
+        background-position: 70%;
+    }
+    #car-1-about .car-1-lead {
+        margin-bottom: 15px;
+    }
+    #car-1-about .car-1-sub-lead {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 0;
+    }
+    .car-1-person {
+        margin: 10px 0;
+    }
+    .car-1-person .car-1-bio {
+        font-size: 14px;
+    }
+    .car-1-person .car-1-name {
+        font-size: 20px;
+    }
+    car-1-person {
+        margin-bottom: 10px;
+    }
+    #car-1-subscribe {
+        padding: 3em 0;
+    }
+    #car-1-subscribe h3 {
+        line-height: 0;
+        margin-bottom: 40px;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 36px;
+    }
+    .car-1-lead {
+        margin-bottom: 10px !important;
+    }
+    #car-1-pricing .price {
+        font-size: 30px;
+    }
+    #car-1-pricing .price .currency {
+        font-size: 20px;
+        top: -0.5em;
+    }
+    hr {
+        margin: 10px 0;
+    }
+    .price-box p {
+        margin-bottom: 10px;
+    }
+    #car-1-pricing .pricing-plan {
+        margin-bottom: 20px;
+    }
+    #car-1-pricing,
+    #car-1-faqs {
+        padding-bottom: 1.5em;
+    }
+    .car-1-lead {
+        font-size: 30px;
+    }
+    #car-1-faqs .car-1-faq-list li h2 {
+        font-size: 22px;
+    }
+    #car-1-projects {
+        padding: 69px 0 30px !important;
+    }
+    .car-1-footer-widget {
+        width: 100% !important;
+    }
+    #car-1-footer .car-1-footer-widget .car-1-links li {
+        margin-bottom: 10px;
+    }
+    .we-are {
+        font-size: 24px !important;
+    }
+    .car-1-label {
+        font-size: 34px;
+    }
+    .vehicle-info li {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #car-1-projects .car-1-project-item img {
+        min-height: 145px;
+    }
+    .service-sec .car-1-text h3 {
+        font-size: 18px !important;
+        margin-bottom: 5px;
+    }
+    #car-1-hero .car-1-intro > div .car-1-left-position {
+        width: 100%;
+    }
+    #car-1-hero .car-1-intro > div .car-1-center-position {
+        width: 100%;
+        text-align: center;
+    }
+    #car-1-hero .car-1-intro > div .car-1-right-position {
+        width: 100%;
+        text-align: left;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 50px;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 28px;
+        line-height: 34px;
+        text-align: center;
+    }
+    .home-banner .car-1-intro-text {
+        text-align: center;
+    }
+    #car-1-hero .car-1-intro > div h3 {
+        font-size: 46px;
+        line-height: 48px;
+        text-align: center;
+    }
+    .car-1-person {
+        margin-bottom: 30px;
+        float: left;
+        width: 100%;
+    }
+    #car-1-subscribe form {
+        width: 100%;
+    }
+    #car-1-subscribe h3 {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #car-1-features-2 .car-1-feature-image img,
+    #car-1-features-3 .car-1-feature-image img,
+    #car-1-features-4 .car-1-feature-image img {
+        max-width: 100%;
+    }
+    #car-1-projects {
+        padding: 69px 0;
+    }
+    .travel-plan {
+        padding: 80px 0 !important;
+    }
+    .car-1-text > h3 {
+        font-size: 20px !important;
+    }
+    #car-1-testimonials {
+        padding: 75px 0;
+    }
+    #car-1-header nav ul.left-menu li {
+        margin-right: 0;
+    }
+    #car-1-pricing {
+        padding: 57px 0;
+    }
+    #car-1-page > div {
+        padding: 46px 0;
+    }
+    .car-1-lead {
+        font-size: 39px;
+        margin-bottom: 9px;
+    }
+    #car-1-faqs .car-1-faq-list li h2 {
+        font-size: 23px !important;
+        margin-bottom: 8px;
+    }
+    #car-1-faqs {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+    #car-1-projects .car-1-lead {
+        font-size: 40px;
+    }
+    #car-1-features .car-1-lead {
+        font-size: 40px;
+    }
+    #car-1-testimonials .car-1-lead {
+        font-size: 40px;
+    }
+    #car-1-about .car-1-lead {
+        font-size: 36px;
+    }
+    .login-sec {
+        width: 100%;
+    }
+    #car-1-header nav ul li a {
+        font-size: 14px;
+    }
+    .login-txt {
+        height: 38px;
+    }
+    .login-btn {
+        height: 38px;
+        line-height: 38px;
+    }
+    .ft-col h3 {
+        cursor: pointer;
+        display: block;
+    }
+}
+@media screen and (max-width: 768px) {
+    .rent-form {
+        display: none;
+    }
+    .phone-form {
+        display: block;
+    }
+    .phone-form .rent-form {
+        display: block;
+        margin-bottom: 0
+    }
+    .main-btn {
+        margin-bottom: 0
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 28px;
+    }
+    #car-1-projects .car-1-lead,
+    #car-1-features .car-1-lead,
+    #car-1-features-2 .car-1-lead,
+    #car-1-features-3 .car-1-lead,
+    #car-1-features-4 .car-1-lead {
+        font-size: 26px;
+    }
+    #car-1-projects .car-1-sub-lead {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #car-1-projects .car-1-project-item .car-1-text p,
+    #car-1-features .car-1-sub-lead {
+        line-height: 22spx;
+    }
+    .car-1-text p {
+        font-size: 16px !important;
+    }
+    #car-1-features,
+    #car-1-features-2,
+    #car-1-features-3,
+    #car-1-features-4,
+    #car-1-projects,
+    #car-1-testimonials,
+    #car-1-about,
+    #car-1-subscribe,
+    #car-1-info,
+    #car-1-pricing,
+    #car-1-faqs,
+    #car-1-footer {
+        padding: 2.5em 0;
+    }
+    #car-1-features .car-1-feature {
+        margin-bottom: 30px;
+    }
+    .col-md-4.col-sm-4 .car-1-feature:last-child {
+        margin-bottom: 0;
+    }
+    .travel-plan {
+        background-position: 0;
+    }
+    #car-1-features-2 .car-1-feature h3,
+    #car-1-features-3 .car-1-feature h3,
+    #car-1-features-4 .car-1-feature h3 {
+        font-size: 16px;
+    }
+    .holiday-sec .car-1-icon i {
+        font-size: 16px !important;
+    }
+    #car-1-features-2 .car-1-feature .car-1-icon,
+    #car-1-features-3 .car-1-feature .car-1-icon,
+    #car-1-features-4 .car-1-feature .car-1-icon {
+        line-height: 16px;
+        vertical-align: top;
+    }
+    .btn-cta {
+        padding: 10px 30px !important;
+    }
+    #car-1-features.why-us .car-1-feature h3 {
+        font-size: 36px;
+    }
+    #car-1-features.why-us .car-1-feature p {
+        font-size: 20px;
+    }
+    . car-1-icon2 {
+        height: 70px !important;
+    }
+    #car-1-logo img {
+        width: 150px;
+    }
+    #car-1-features-2 .car-1-btn-action,
+    #car-1-features-3 .car-1-btn-action,
+    #car-1-features-4 .car-1-btn-action {
+        margin-top: 20px;
+    }
+    #car-1-testimonials .car-1-lead {
+        font-size: 26px;
+    }
+    .flex-control-nav {
+        bottom: 0;
+    }
+    #car-1-testimonials .flexslider-controls .flex-control-nav {
+        padding-bottom: 0;
+    }
+    #car-1-subscribe h3 label {
+        font-size: 20px;
+    }
+    #car-1-footer {
+        padding-bottom: 0;
+    }
+    #car-1-footer .car-1-copyright {
+        padding: 20px 0;
+    }
+    #car-1-footer .car-1-footer-widget .car-1-links li {
+        margin-bottom: 10px;
+    }
+    .footer-sec {
+        background-size: 200% !important;
+    }
+    .slider-contnt h4 {
+        font-size: 16px !important;
+        line-height: 22px;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        line-height: 30px;
+        font-size: 25px;
+    }
+    #car-1-hero .car-1-intro > div h3 {
+        font-size: 26px;
+    }
+    #car-1-hero .car-1-intro > div .btn-outline,
+    #car-1-hero .car-1-intro > div .btn-primary {
+        padding: 8px 0 !important;
+    }
+    #car-1-hero .car-1-learn-more a .text {
+        margin-bottom: 10px;
+    }
+    .welcome-sec h4 {
+        font-size: 14px;
+        padding-bottom: 15px;
+    }
+    #car-1-about .car-1-lead {
+        font-size: 26px;
+    }
+    #car-1-about {
+        text-align: center;
+    }
+    .car-1-person .car-1-bio {
+        font-size: 14px;
+        text-align: center;
+    }
+    #car-1-footer .car-1-footer-widget h3,
+    #car-1-footer .car-1-footer-widget {
+        margin-bottom: 20px;
+    }
+    #car-1-info .car-1-lead {
+        font-size: 26px;
+    }
+    #car-1-info p br {
+        display: none;
+    }
+    #car-1-info.food-sec {
+        background-position: 40%;
+    }
+    .car-1-lead {
+        font-size: 26px;
+    }
+    #car-1-faqs .car-1-faq-list li h2 {
+        font-size: 20px;
+    }
+    #car-1-features .car-1-feature {
+        margin: 20px 0;
+    }
+    #car-1-footer {
+        padding-top: 0;
+    }
+    .car-1-intro-text h4 br {
+        display: none;
+    }
+    .car-1-person {
+        margin-bottom: 20px;
+    }
+    #car-1-testimonials {
+        padding: 32px 0 !important;
+    }
+    .col-lg,
+    .col-sm {
+        width: 100%;
+    }
+    .vehicle-img {
+        margin-bottom: 15px;
+    }
+    .vehicle-ovrlay p {
+        top: 40%;
+    }
+    .vehicle-info ul {
+        margin-bottom: 0;
+    }
+    #car-1-page > div {
+        padding: 40px 0;
+    }
+    .login-form li {
+        margin-bottom: 20px;
+    }
+    .login-form ul {
+        padding: 0 30px;
+    }
+    .image-popup {
+        display: block;
+    }
+    .image-popup img {
+        width: 100%;
+    }
+    .image-popup:hover img {
+        transform: none;
+    }
+    .no-mrgn {
+        margin: 0 !important;
+    }
+    .car-1-footer-widget {
+        float: none !important
+    }
+    .app-offr h3 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    #car-1-features.why-us .car-1-feature h3 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    #car-1-hero {
+        height: 400px !important;
+    }
+    #car-1-hero .car-1-intro {
+        height: 400px !important;
+    }
+}
+@media screen and (max-width: 767px) {
+    .contact-info li i{padding-right: 15px;}
+    .ac-ul {
+        display: none;
+        padding: 0
+    }
+    .pls {
+        display: inline-block;font-size: 14px;
+    }
+    #study-footer .col-sm-3.col-xs-6 {
+        width: 100%;
+    }
+    #car-1-footer .car-1-footer-widget h3 {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    }
+    .footer-sec{padding-top: 40px;}
+}
+@media screen and (max-width: 641px) {
+    #car-1-logo img {
+        width: 120px;
+    }
+    #car-1-hero {
+        height: 300px !important;
+    }
+    #car-1-hero .car-1-intro {
+        height: 300px !important;
+    }
+    #car-1-page > div {
+        padding: 30px 0 20px;
+    }
+    #car-1-hero .car-1-intro > div h3 {
+        line-height: 26px;
+    }
+    
+    .form-control {
+    box-shadow: none;
+    background: #fff;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    height: 42px;
+    font-size: 14px;
+    font-weight: 300;
+    }
+    textarea.form-control {
+    height: 110px;
+    }
+    
+}
+@media screen and (max-width: 567px) {
+    .login-form ul {
+        width: 100%;
+        padding: 0 60px;
+    }
+    .login-form {
+        top: 0%;
+        transform: none;
+        left: 0;
+        position: static;
+    }
+    #login-sec {
+        padding-top: 7em;
+    }
+    .login-form span {
+        position: static;
+        text-align: center;
+        width: 100%;
+        display: inline-block;
+        transform: none;
+        margin: 0px 0 30px;
+    }
+    .car-info .col-xs-6.col-xxs-12 {
+        width: 100%;
+    }
+    .rent-selct {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+    .rent-date {
+        width: 98%;
+    }
+   
+}
+@media screen and (max-width: 480px) {
+    #car-1-hero {
+        height: 450px;
+    }
+    #car-1-hero .car-1-intro {
+        height: 450px;
+    }
+    #car-1-hero .car-1-intro > div .btn-outline,
+    #car-1-hero .car-1-intro > div .btn-primary {
+        padding: 10px 30px !important;
+        width: 100%;
+    }
+    .row-bottom-padded-md {
+        padding-bottom: 0 !important;
+    }
+    #car-1-subscribe h3 {
+        text-align: center;
+    }
+    .feature2 {} #car-1-hero .car-1-intro > div .btn-outline,
+    #car-1-hero .car-1-intro > div .btn-primary {
+        padding: 10px 30px !important;
+        width: 40%;
+    }
+    #car-1-hero .car-1-intro > div h3 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .btn-cta {
+        padding: 10px 30px !important;
+        width: 100%;
+    }
+    .col-xxs-12 {
+        float: none;
+        width: 100%;
+    }
+    #car-1-subscribe form input[type="submit"] {
+        position: relative;
+        width: 100%;
+        border-top-left-radius: 4px;
+        border-bottom-left-radius: 4px;
+    }
+    #car-1-subscribe form input[type="email"] {
+        margin-bottom: 10px;
+        padding-right: 50px;
+    }
+    #car-1-subscribe form .car-1-icon {
+        position: absolute;
+        top: 20px;
+    }
+    #car-1-features-2 .car-1-btn-action > a,
+    #car-1-features-3 .car-1-btn-action > a,
+    #car-1-features-4 .car-1-btn-action > a {
+        margin-left: 0;
+    }
+    #car-1-hero .car-1-intro > div h2 {
+        font-size: 16px;
+        line-height: 18px;
+        margin: 4px 0;
+    }
+    #car-1-projects .car-1-lead {
+        font-size: 25px;
+        line-height: 27px;
+    }
+    .holiday-sec .car-1-icon i {
+        font-size: 19px !important;
+    }
+    #car-1-features .car-1-sub-lead {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .car-1-text span {
+        padding-right: 22px;
+    }
+    .car-1-btn-action.animate-box.fadeInUp.animated {
+        margin-top: 20px;
+    }
+    #car-1-testimonials .car-1-lead {
+        font-size: 28px;
+        padding: 0px 30px;
+    }
+    #car-1-testimonials .slides li blockquote {
+        font-size: 26px;
+        line-height: 26px;
+    }
+    .car-1-lead {
+        font-size: 26px;
+    }
+    #car-1-faqs .car-1-faq-list li h2 {
+        font-size: 20px !important;
+    }
+    #car-1-footer .car-1-footer-widget h3 {
+        font-size: 18px;
+        margin-bottom: 17px;
+    }
+    #car-1-footer .car-1-footer-widget .car-1-links li {
+        line-height: 23px;
+        margin: 0 0 6px;
+        padding: 0;
+    }
+    #car-1-features .car-1-lead {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    #car-1-features .car-1-feature .car-1-icon {
+        margin: 0 auto 10px;
+    }
+    #car-1-features .car-1-feature h3 {
+        margin-bottom: 4px;
+    }
+    .car-1-feature p {
+        line-height: 20px;
+    }
+    #car-1-testimonials {
+        padding: 32px 0 0 !important;
+    }
+    #car-1-testimonials .flexslider-controls .flex-control-nav {
+        padding-bottom: 11px;
+    }
+    .travel-plan {
+        padding: 40px 0 24px !important;
+    }
+    /* about */
+    
+    #car-1-about .car-1-lead {
+        font-size: 27px;
+        margin-bottom: 7px;
+    }
+    #car-1-about .car-1-sub-lead {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 0px;
+    }
+    #car-1-faqs {
+        padding: 0 0 20px !important;
+    }
+    #car-1-footer {
+        padding: 40px 0 0;
+    }
+    #car-1-page > div {
+        padding: 65px 0 20px;
+    }
+    .car-1-footer-widget {
+        width: 100% !important;
+        float: left !important;
+        margin-bottom: 10px;
+    }
+    #car-1-subscribe {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    #car-1-features-2 {
+        padding: 37px 0;
+    }
+    /*pricing */
+    
+    #car-1-pricing {
+        padding: 60px 0 43px !important;
+    }
+    #car-1-projects .car-1-project-item .car-1-text {
+        line-height: 23px;
+        padding: 19px 12px;
+        text-align: center;
+    }
+    #car-1-footer .car-1-copyright {
+        padding: 25px 0 0px;
+    }
+    #car-1-features .car-1-feature .car-1-icon {
+        height: 66px;
+    }
+    .row-bottom-padded-md {
+        padding-bottom: 0em !important;
+    }
+    .login-form ul {
+        padding: 0;
+    }
+    .app-offr h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .app-offr h5 span {
+        font-size: 18px;
+    }
+    .app-offr h5 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    #car-1-features,
+    #car-1-features-2,
+    #car-1-features-3,
+    #car-1-features-4,
+    #car-1-projects,
+    #car-1-testimonials,
+    #car-1-about,
+    #car-1-subscribe,
+    #car-1-info,
+    #car-1-team1,
+    #car-1-pricing,
+    #car-1-faqs,
+    #car-1-app,
+    #car-1-footer {
+        padding: 2em 0;
+    }
+    .car-1-social li a {
+        font-size: 16px
+    }
+    footer#car-1-footer {
+        padding-bottom: 30px;
+        background: #131313
+    }
+    .footer-sec {
+        padding-top: 0;
+    }
+    #car-1-hero {
+        height:350px !important;
+    }
+    #car-1-hero .car-1-intro {
+        height: 350px !important;
+    }
+    #car-1-features .car-1-feature .car-1-icon i {
+    font-size: 26px;
+    }
+    #car-1-features .car-1-feature .car-1-icon {
+    height: 50px;
+    width: 50px;
+    font-size: 14px;
+    }
+    #car-1-footer .car-1-footer-widget h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+    }
+    .vehicle-info li {
+    font-size: 15px;
+    line-height: 26px;
+    }
+    
+    #car-1-features-2 .car-1-btn-action > a, #car-1-features-3 .car-1-btn-action > a, #car-1-features-4 .car-1-btn-action > a {
+    margin-left: 0;
+    margin-bottom: 20px;
+    }
+    #car-1-footer .car-1-footer-widget {
+    margin-bottom: 5px;
+    }
+    .contact-info li {
+    padding-bottom: 10px;
+    font-size: 14px;
+    line-height: 20px;
+}
+    .team-sec .col-md-3.col-sm-3.col-xs-6{
+        width: 100%;
+    }
+    #car-1-subscribe form input[type="submit"]{height: 42px; line-height: 42px; padding: 0; line-height: 35px;}
+}
